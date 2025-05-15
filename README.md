@@ -1,0 +1,2 @@
+# CopyAmazonProdctInfo
+Chrome Extension
