@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Right Click Extension",
+    "version": "1.0",
+    "description": "A Chrome extension that extends the right-click context menu.",
+    "permissions": ["activeTab", "scripting", "contextMenus"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Right Click Extension"
+    }
+}
